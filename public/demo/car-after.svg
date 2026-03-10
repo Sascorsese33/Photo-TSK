@@ -1,0 +1,16 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#090A0F"/>
+  <ellipse cx="800" cy="170" rx="600" ry="190" fill="#F59E0B" fill-opacity="0.12"/>
+  <rect y="560" width="1600" height="340" fill="#0E1018"/>
+  <path d="M420 560H1130C1162 560 1190 579 1204 608L1250 700H320L356 615C369 583 398 560 420 560Z" fill="#0F172A"/>
+  <path d="M505 542H1030L1120 610H430L505 542Z" fill="#111827"/>
+  <rect x="550" y="565" width="180" height="70" rx="10" fill="#1E293B"/>
+  <rect x="782" y="565" width="200" height="70" rx="10" fill="#1E293B"/>
+  <circle cx="530" cy="700" r="72" fill="#020617"/>
+  <circle cx="530" cy="700" r="36" fill="#94A3B8"/>
+  <circle cx="1050" cy="700" r="72" fill="#020617"/>
+  <circle cx="1050" cy="700" r="36" fill="#94A3B8"/>
+  <ellipse cx="790" cy="760" rx="510" ry="38" fill="#000000" fill-opacity="0.45"/>
+  <path d="M220 290C420 180 620 140 790 130C980 120 1220 170 1380 260" stroke="#F59E0B" stroke-opacity="0.35" stroke-width="4"/>
+  <text x="100" y="95" fill="#FCD34D" font-size="54" font-family="Arial, sans-serif">Après  Studio premium</text>
+</svg>
